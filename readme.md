@@ -31,16 +31,16 @@ You should be confident with JavaScript and have an understanding of how the DOM
 * Mondays will focus on GIS concepts and readings
 * Wednesday will focus on OSS libraries and building maps
 
-|            | Concept                  |  Building     |
-| -----------| ------------------------ | ------------  |
-| Week 1     | GIS Fundamentals         | Basics of Desktop + Leaflet |
-| Week 2     | Web Map Fundamentals     | Leaflet |
-| Week 5     | Web Mappping + Geo Data  | Mapping in Mapbox-gl |
-| Week 3     | Geo Data Processing      | Data processing |
-| Week 4     | Visualizing Data on Maps | Mapping in D3 |
-| Week 6     | Visualizing Data on Maps | Data + Maps |
-| Week 7     | Using maps effectively   | Personal Project |
-| Week 8     | Interactive maps         | Personal Project |
+|             | Concept                  |  Building     |
+| ----------- | ------------------------ | ------------  |
+| Week 1      | GIS Fundamentals         | Basics of Desktop + Leaflet |
+| Week 2      | Web Map Fundamentals     | Leaflet |
+| Week 3      | Web Mappping + Geo Data  | Mapping in Mapbox-gl |
+| Week 4      | Geo Data Processing      | Data processing |
+| Week 5      | Visualizing Data on Maps | Mapping in D3 |
+| Week 6      | Visualizing Data on Maps | Data + Maps |
+| Week 7      | Using maps effectively   | Personal Project |
+| Week 8      | Interactive maps         | Personal Project |
 
 ## Getting Help
 
