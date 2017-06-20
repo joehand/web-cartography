@@ -14,6 +14,17 @@
 * [Mapbox docs](https://www.mapbox.com/developers/), [mapobox-gl](https://www.mapbox.com/mapbox-gl-js/api/)
 * [turf-js](http://turfjs.org/) - Advanced geospatial analysis for browsers and node
 
+### Organizations 
+
+Organizations doing a lot of mapping work. You can probably find some cool and useful libraries on Github pages for these groups.
+
+* [mapbox]()
+* [https://github.com/digidem](Digital Democracy organization) - Digital Democracy empowers marginalized communities to use technology to defend their rights. Organization doing a lot of interesting mapping work with a focus on offline, citizen driven data.
+* [open addresses]()
+* [mapzen]()
+* [hot]()
+
+
 ## Data Resources
 
 * [Example CLI data processing](https://github.com/mbostock/us-rivers)

@@ -2,6 +2,11 @@
 
 Hack Oregon - Web Cartography Summer 2017
 
+Instructor:
+
+Joe Hand
+joe@hand.email
+
 ## Course Description
 
 With the proliferation of location data and the power it has to influence everything from marketing to hardware, the need for quality map-based interfaces has never been higher. Use LeafletJS, the most popular JavaScript mapping library, to create elegant interfaces that utilize a wealth of geodata to create powerful tools and visualizations.
@@ -46,7 +51,7 @@ You should be confident with JavaScript and have an understanding of how the DOM
 
 We will have some class time each week for pairing on projects or getting help. We can help each other in Slack. Please see information about using Slack before asking.
 
-A lot of programming and making maps is about asking questions, so please ask! But the other side of that is that a lot of programming is learning how to answer questions. (The experience of programming offline is a testament to that - I still have trouble working offline sometimes, without the ability to look up syntax or common problems.)
+A lot of programming and making maps is about asking questions, so please ask! But the other side of that is that a lot of programming is learning how to answer your own questions. (The experience of programming offline is a testament to that - I still have trouble working offline sometimes, without the ability to look up syntax or common problems.)
 
 Guidelines for getting help:
 
@@ -60,7 +65,7 @@ Guidelines for getting help:
 For everyone to get the most out of the class, I am proposing a few "rules" for asking questions on our Slack channel.
 
 * *10 min rule*: Spend ~10 minutes trying to answer your own question. Search the internet, read documentation, look for solutions in other code. The idea is that before you take 10 minutes of someone else's time, you should spend 10 minutes of your own time.
-* *Rubber duck first*: ask the question to a nice inanimate object or the Slack bot.
+* *Rubber duck first*: ask the question to a nice inanimate object or the Slack bot. This helps you ensure your framing of the question makes sense and helps to clarify it before taking someone else's time.
 
 ## Books & Reading
 
